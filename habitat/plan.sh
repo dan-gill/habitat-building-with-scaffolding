@@ -14,10 +14,10 @@ pkg_origin=ddg_tryhabitat
 
 # Required.
 # Sets the version of the package
-pkg_version="0.1.0"
+pkg_version="0.2.0"
 
 # Optional.
 # The scaffolding base for this plan.
 pkg_scaffolding="core/scaffolding-ruby"
 
-pkg_deps=( core/imagemagick )
+pkg_deps=( ddg_tryhabitat/imagemagick )
